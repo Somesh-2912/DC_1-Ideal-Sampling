@@ -8,7 +8,8 @@ Attach the program
 ```
 # Output Waveform
 ```
-Attach the output waveform
+<img width="1514" height="1008" alt="image" src="https://github.com/user-attachments/assets/1221be99-eea4-4a83-8d53-ba8dc6f62427" />
+
 ```
 # Results
 ```
